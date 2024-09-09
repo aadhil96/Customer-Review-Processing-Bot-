@@ -36,9 +36,12 @@ The bot processes reviews in several steps using Langchain components:
 5. **Generate Email Response** 💬:  
    Using the sentiment and feedback, the bot creates a professional, specific email response. The email will thank the customer for positive/neutral feedback, or apologize and offer assistance if the sentiment is negative.
 
-## ⚙️ Requirements
+## Prerequisites 📋
+- Python 3.x
+- Environment variables for API keys if using an external LLM.
 
-Install the required libraries:
+## Installation 🔧
+Install the required Python packages with the following commands:
 
 ```bash
 !pip install langchain
