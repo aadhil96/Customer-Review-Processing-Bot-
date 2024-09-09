@@ -2,6 +2,10 @@
 
 This project is a **Customer Review Processing Bot** built using LangChain, designed to automate the analysis and response to customer reviews. The bot processes reviews written in various languages and outputs essential insights such as sentiment analysis, a summary of the review, the original language of the review, and generates an email response based on the sentiment.
 
+## Project Diagram
+
+![diagram](https://github.com/aadhil96/Customer-Review-Processing-Bot-/blob/9107e690f1a01f251ed30854472f4a2733407d63/diagram.png)
+
 ## ✨ Features
 
 1. 🌍 **Multilingual Review Translation**: The bot detects and translates non-English reviews into English.
